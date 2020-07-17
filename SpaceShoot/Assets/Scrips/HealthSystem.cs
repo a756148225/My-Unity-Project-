@@ -14,7 +14,7 @@ public class HealthSystem : MonoBehaviour {
             Compare();
         }
     }
-    void Compare()
+    void Compare()//生命值比较
     {
         if(Health==2)
         {
